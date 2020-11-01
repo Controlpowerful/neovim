@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/helain/dwm/patches'
+let g:netrw_dirhist_3='/home/helain/Downloads'
+let g:netrw_dirhist_2='/home/helain/.config/nvim/plugged/vim-startify/autoload/startify'
+let g:netrw_dirhist_1='/home/helain/.config/nvim/plugged/vim-deus'
